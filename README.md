@@ -59,7 +59,8 @@ jupyter notebook notebooks/
 
 
 🤝 Contributors:
-Preethi Saran
+Maniharika
+
 
 📃 License
 This project is open source and available under the MIT License.
